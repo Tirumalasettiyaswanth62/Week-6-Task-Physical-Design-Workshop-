@@ -1,4 +1,4 @@
-<img width="1919" height="945" alt="nwell drc why " src="https://github.com/user-attachments/assets/13ed6819-8077-4cc5-8acc-e6b10044fc5e" /><img width="1918" height="966" alt="geditpoly" src="https://github.com/user-attachments/assets/b660f6a4-8902-4f89-8822-7f3946d787e3" /># Day 3 :
+# Day 3 :
 ## Design library cell using Magic Layout and ngspice characterization
 
 ### Theory
@@ -222,6 +222,7 @@ drc why
 ```
 
 Screenshot of magic window with rule implemented
+<img width="1919" height="945" alt="nwell drc why " src="https://github.com/user-attachments/assets/13ed6819-8077-4cc5-8acc-e6b10044fc5e" /><img width="1918" height="966" alt="geditpoly" src="https://github.com/user-attachments/assets/b660f6a4-8902-4f89-8822-7f3946d787e3" />
 
 <img width="1919" height="<img width="1919" height="960" alt="drcwhy" src="https://github.com/user-attachments/assets/304160a4-a98e-4f03-834b-6d3ac536e180" /><img width="1918" height="999" alt="drc error " src="https://github.com/user-attachments/assets/1709e934-ee68-4983-b4a2-09dab88bb868" />mg width="1916" height="992" alt="extracted spice deck" src="https://github.com/user-attachments/assets/509e5080-2d00-4651-ad7b-b61e602ff66d" />
 
