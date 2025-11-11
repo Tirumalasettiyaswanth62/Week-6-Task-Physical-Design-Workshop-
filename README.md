@@ -2,5 +2,5 @@
 ## *[Day 1: Run 'picorv32a' design synthesis using OpenLANE flow and generate necessary outputs.](day1/README.md)
 ## *[Day 2: Good floorplan vs bad floorplan and introduction to library cells ](day2/README.md)
 ## *[Day 3: Design library cell using Magic Layout and ngspice characterization ](day3/README.md)
-## *[Day 4: ](day4/README.md)
+## *[Day 4: Pre-layout timing analysis and importance of good clock tree](day4/README.md)
 ## *[Day 5:  ](day5/README.md)
