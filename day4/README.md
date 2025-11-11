@@ -1,5 +1,5 @@
 # Day 4 :
-## Pre-layout timing analysis and importance of good clock tree (22/03/2024 - 24/03/2024)
+## Pre-layout timing analysis and importance of good clock tree 
 
 ### Theory
 
