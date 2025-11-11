@@ -56,9 +56,21 @@ Screenshot of floorplan run
 
 <img width="1910" height="975" alt="Screenshot 2025-10-28 130658" src="https://github.com/user-attachments/assets/42cfbd91-27b8-4984-9a3b-9424cccb308e" />
 
+```
+floor_placement
+```
+
 
 
 <img width="1907" height="970" alt="Screenshot 2025-10-28 130822" src="https://github.com/user-attachments/assets/44981c6a-c519-4792-92bb-d4ee2b641f56" />
+
+```bash
+# Change directory to path containing generated floorplan def
+cd Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/17-03_12-06/results/floorplan/
+
+# Command to load the floorplan def in magic tool
+magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+```
 <img width="1911" height="941" alt="Screenshot 2025-10-28 135038" src="https://github.com/user-attachments/assets/e0bb4406-da4a-4e6b-95a0-72c1e9149869" />
 <img width="1910" height="938" alt="Screenshot 2025-10-28 135111" src="https://github.com/user-attachments/assets/6dac7a0d-1a22-4ebc-a3d9-e230e9c2a6f4" />
 
